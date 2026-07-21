@@ -228,6 +228,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   overflow:hidden;
 }
 .menu-thumb{ height: 150px; }
+.menu-thumb img{ width:100%; height:100%; object-fit: cover; display:block; }
 .menu-thumb-1{ background: linear-gradient(135deg, #6E243944, #C9A22733); }
 .menu-thumb-2{ background: linear-gradient(135deg, #5B6B3F44, #C9A22733); }
 .menu-thumb-3{ background: linear-gradient(135deg, #C9A22744, #6E243922); }
